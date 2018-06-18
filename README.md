@@ -1,2 +1,2 @@
 # HelloWorld
-# making some edits to play with bramching & merging in Github
+# making some edits to play with branching & merging in Github
